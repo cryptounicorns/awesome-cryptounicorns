@@ -11,3 +11,7 @@
 - https://coinmarketcap.com/charts/ капитализация криптовалют
 - https://cryptowat.ch/ котировки
 - https://cryptopanic.com/ агрегатор новостей
+
+### Подкасты
+
+- https://player.fm/series/1542756 Базовый блок (про блокчейн без булщита)
