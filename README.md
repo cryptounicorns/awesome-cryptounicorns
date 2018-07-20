@@ -15,3 +15,10 @@
 ### Подкасты
 
 - https://player.fm/series/1542756 Базовый блок (про блокчейн без булщита)
+
+
+## ENG
+
+### Thetta DAO Framework 
+
+- https://web.thetta.io Фреймворк для создания своих DAO
