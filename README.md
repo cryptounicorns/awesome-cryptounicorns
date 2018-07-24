@@ -8,7 +8,7 @@
 - https://cryptopanic.com/ news feed
 - https://coinmarketcap.com/charts/ capitalization, dominance
 - https://coin.dance/poli global bitcoin political support & public opinion
-- http://data.bitcoinity.org/ bitcoin volume, price, market cap and it's blockchain info
+- https://data.bitcoinity.org/ bitcoin volume, price, market cap and it's blockchain info
 
 ## RU
 
