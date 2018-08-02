@@ -9,6 +9,7 @@
 - https://coinmarketcap.com/charts/ capitalization, dominance
 - https://coin.dance/poli global bitcoin political support & public opinion
 - https://data.bitcoinity.org/ bitcoin volume, price, market cap and it's blockchain info
+- http://chainquery.com/bitcoin-api bitcoin blockchain API query
 
 ## RU
 
