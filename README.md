@@ -11,6 +11,9 @@
 - https://data.bitcoinity.org/ bitcoin volume, price, market cap and it's blockchain info
 - http://chainquery.com/bitcoin-api bitcoin blockchain API query
 
+### Projects
+- https://indutny.github.io/vote.wdgt/ vote.wdgt - Free Proof-of-Work API for fancy Vote Counting widgets opensource
+
 ## RU
 
 ### Экономика
