@@ -10,6 +10,7 @@
 - https://coin.dance/poli global bitcoin political support & public opinion
 - https://data.bitcoinity.org/ bitcoin volume, price, market cap and it's blockchain info
 - http://chainquery.com/bitcoin-api bitcoin blockchain API query
+- https://mempool.observer/ bitcoin mempool size observation
 
 ### Projects
 - https://indutny.github.io/vote.wdgt/ vote.wdgt - Free Proof-of-Work API for fancy Vote Counting widgets opensource
